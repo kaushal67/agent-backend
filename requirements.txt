@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+crewai
+groq
+python-dotenv
+sqlalchemy
+langchain-groq
+python-multipart
+requests

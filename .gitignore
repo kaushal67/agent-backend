@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Database files
+*.db
+
+# VS Code
+.vscode/
+
+# Frontend dependencies/build
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
